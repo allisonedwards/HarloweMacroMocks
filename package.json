@@ -1,0 +1,15 @@
+{
+  "name": "macros",
+  "version": "1.0.0",
+  "description": "Harlowe Macros Mock",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "microbundle build"
+  },
+  "author": "Allison Edwards",
+  "license": "ISC",
+  "devDependencies": {
+    "microbundle": "^0.12.4"
+  }
+}
