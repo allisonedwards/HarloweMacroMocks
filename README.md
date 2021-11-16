@@ -1,5 +1,9 @@
 # Mocks For Harlowes' Macros Module
 
+NOTE: Deprecated in favour on the simple and intended to
+  be more complete HarloweMocks repo.
+
+
 ## Purpose
 
 The aim of this package id to provide 'empty', or more accurately
